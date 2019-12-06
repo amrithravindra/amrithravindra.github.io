@@ -1,6 +1,6 @@
-# personal-website-template
+# personal-website
 
-A simple one page template suited for personal and portfolio pages. 
+A simple one page template suited for personal web pages. 
 
 ## Usage
 
