@@ -219,7 +219,7 @@
   }
   
   #portfolio .portfolio-item .portfolio-link .caption {
-    background: linear-gradient;
+    background: linear-gradient !important;
     position: absolute;
     width: 100%;
     height: 100%;
@@ -230,7 +230,7 @@
   }
   
   #portfolio .portfolio-item .portfolio-link .caption:hover {
-    opacity: 1;
+    opacity: 2;
   }
   
   #portfolio .portfolio-item .portfolio-link .caption .caption-content {
