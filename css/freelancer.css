@@ -4,7 +4,7 @@
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
  */
 body {
-  font-family: 'Lato', 'Helvetica Neue', Helvetica, Lane Narrow, sans-serif;
+  font-family: 'Lato', 'Helvetica Neue', Lane Narrow, Lane Narrow, sans-serif;
   overflow-x: hidden;
 }
 p {
@@ -27,9 +27,9 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "Montserrat", "Helvetica Neue", Helvetica, Lane Narrow, sans-serif;
+  font-family: "Montserrat", "Helvetica Neue", Lane - Narrow, Lane - Narrow, sans-serif;
   text-transform: uppercase;
-  font-weight: 700;
+  font-weight: 600;
 }
 hr.star-light,
 hr.star-primary {
@@ -47,7 +47,7 @@ hr.star-primary:after {
   display: inline-block;
   position: relative;
   top: -0.8em;
-  font-size: 2em;
+  font-size: 1.75em;
   padding: 0 0.25em;
 }
 hr.star-light {
@@ -82,7 +82,7 @@ header img {
 }
 header .intro-text .name {
   display: block;
-  font-family: "Montserrat", "Helvetica Neue", Helvetica, Lane Narrow, sans-serif;
+  font-family: "Montserrat", "Helvetica Neue", Lane - Narrow, Lane - Narrow, sans-serif;
   text-transform: uppercase;
   font-weight: 700;
   font-size: 2em;
@@ -105,7 +105,7 @@ header .intro-text .skills {
 }
 .navbar-custom {
   background: #2C3E50;
-  font-family: "Montserrat", "Helvetica Neue", Helvetica, Lane Narrow, sans-serif;
+  font-family: "Montserrat", "Helvetica Neue", Lane - Narrow, Lane - Narrow, sans-serif;
   text-transform: uppercase;
   font-weight: 700;
   border: none;
