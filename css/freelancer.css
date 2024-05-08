@@ -28,8 +28,7 @@ h4,
 h5,
 h6 {
   font-family: "Montserrat", "Helvetica Neue", Lane Narrow, Lane Narrow, sans-serif;
-  text-transform: uppercase;
-  font-weight: 600;
+  font-weight: 300;
 }
 hr.star-light,
 hr.star-primary {
